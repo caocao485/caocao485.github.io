@@ -102,7 +102,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: github
+  type: git
   repo: git@github.com:caocao485/caocao485.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
-  branch:  main
+  branch: gh-pages

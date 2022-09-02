@@ -9,7 +9,7 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": ""
+    "version": "6.2.0"
   },
   "optionalDependencies": {
     "fsevents": "^2.3.2"
