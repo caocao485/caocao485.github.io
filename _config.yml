@@ -105,4 +105,4 @@ deploy:
   type: github
   repo: git@github.com:caocao485/caocao485.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: main
+  branch:  main
