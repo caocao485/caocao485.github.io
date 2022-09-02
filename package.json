@@ -11,6 +11,9 @@
   "hexo": {
     "version": ""
   },
+  "optionalDependencies": {
+  "fsevents": "^2.3.2"
+  },
   "dependencies": {
     "hexo": "^6.2.0",
     "hexo-generator-archive": "^1.0.0",
